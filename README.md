@@ -39,27 +39,30 @@ It provides REST APIs to create, retrieve, update, and delete employee details s
 
 ## 📂 Project Structure
 
+```text
 Employee_Management_System/
 ├── .mvn/
 ├── src/
-│ ├── main/
-│ │ ├── java/
-│ │ │ └── com/
-│ │ │ └── example/
-│ │ │ └── employeemanagement/
-│ │ │ ├── controller/
-│ │ │ ├── model/
-│ │ │ ├── repository/
-│ │ │ ├── service/
-│ │ │ └── EmployeeManagementApplication.java
-│ │ └── resources/
-│ │ ├── application.properties
-│ │ └── static/
+│   └── main/
+│       ├── java/
+│       │   └── com/
+│       │       └── example/
+│       │           └── employeemanagement/
+│       │               ├── controller/
+│       │               ├── model/
+│       │               ├── repository/
+│       │               ├── service/
+│       │               └── EmployeeManagementApplication.java
+│       └── resources/
+│           ├── application.properties
+│           └── static/
 ├── .gitignore
 ├── mvnw
 ├── mvnw.cmd
 ├── pom.xml
 └── README.md
+```
+
 
 
 ---
